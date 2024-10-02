@@ -2,4 +2,4 @@
 
 #clustering using kmeans and hierarchical clustering
 
-#dimention reduction with PCA and MLS
+#dimension reduction with PCA and MLS
